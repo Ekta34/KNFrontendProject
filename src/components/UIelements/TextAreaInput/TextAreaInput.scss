@@ -1,0 +1,22 @@
+.textAreaContainer{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.textAreaLabel{
+    display: flex;
+    font-family: "AvenirNextLTW01-DemiCn";
+    font-size: 12px;
+    text-align: left;
+    color:#a6a6a6;
+    padding: 0 !important;
+}
+.textArea{
+    width:100%;
+    border: none;
+    border: 1px;
+    border-radius: 4px;
+    resize: none;
+    outline: none;
+}

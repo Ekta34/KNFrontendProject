@@ -1,0 +1,27 @@
+.seriesCardContainer{
+    display: flex;
+    flex-direction: row;
+    margin-top: 24px;
+}
+
+.seriesCardImageContainer{
+    width: 100%;
+    height: 140px;
+    background-image: url("https://s3.amazonaws.com/ektafirstbucket/foodimage.jpg");
+    background-size: 100% 100%;
+}
+
+.seriesCardHeaderText{
+    color: aqua;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.seriesCardDeatil{
+    margin-top:4px
+}
+
+.seriesCardDetailText{
+    font-size: 14px;
+    font-weight: 300px
+}

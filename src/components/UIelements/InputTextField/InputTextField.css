@@ -1,0 +1,28 @@
+.inputTextFieldContainer{
+    display: flex;
+    flex: 1;
+    flex-shrink: 0;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.inputTextFieldLabel{
+    font-family: "AvenirNextLTW01-DemiCn";
+    font-size: 12px;
+    text-align: left;
+    color:#a6a6a6;
+    padding: 0 !important;
+}
+
+.inputField{
+    width:100%;
+    border: none;
+    border: 1px;
+    border-radius: 4px;
+    padding-top:4px;
+    padding-bottom: 4px;
+    resize: none;
+    outline: none;
+}
+
+

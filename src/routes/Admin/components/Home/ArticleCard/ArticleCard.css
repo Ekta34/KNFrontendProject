@@ -1,0 +1,33 @@
+.articleCardContainer{
+    border-radius: 2%;
+    border: 1px solid #d9d9d9;
+}
+
+.articleImageContainer{
+    height: 150px;
+    background-image: url("https://s3.amazonaws.com/ektafirstbucket/foodimage.jpg");
+    background-size: 100% 100%;
+}
+
+.articleData{
+    padding: 8px;
+}
+
+.articleCardHeader{
+    line-height: 26px;
+}
+
+.articleCardHeaderText{
+    color: aqua;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.articleCardDetail{
+    margin-top: 8px;
+}
+
+.articleCardDetailText{
+    font-size: 14px;
+    font-weight: 300;
+}

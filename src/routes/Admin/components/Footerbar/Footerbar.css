@@ -1,0 +1,29 @@
+.footerContainer{
+    width: 100%;
+    margin-top:64px;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    background: #2F4F4F;
+    min-height: 200px;
+}
+
+.footerRow{
+    display: flex;
+    justify-content: space-around
+}
+
+.footerCol{
+    margin-top:24px;
+}
+
+.footerHeder{
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+
+.footerContent{
+    font-size: 16px;
+    font-weight: 300;
+    color: #a6a6a6;
+}

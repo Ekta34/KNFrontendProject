@@ -1,0 +1,36 @@
+.homeContainer{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 1005;
+}
+
+.subHeader{
+    min-height: 150px;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top:40px;
+    padding-bottom: 40px;
+    background-color: #708090;
+}
+
+.subHeaderText1{
+    max-width: 450px;
+    font-size: 24px;
+    color: white;
+    background-color: #ffb84d;
+}
+
+.subHeaderText2{
+    max-width: 510px;
+    font-size: 24px;
+    color: white;
+    background-color: #ffb84d;
+}
+
+.subHeaderText3{
+    max-width: 340px;
+    font-size: 24px;
+    color: white;
+    background-color: #ffb84d;
+}

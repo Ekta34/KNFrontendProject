@@ -1,0 +1,21 @@
+.seriesPanelContainer{
+    display: flex;
+    flex-direction: column;
+    margin-top:80px;
+    width: 100%;
+}
+
+.seriesPanelHeader{
+    display: flex;
+    justify-content: center;
+}
+
+.seriesPanelHeaderText{
+    align-self: center;
+    font-size: 24px;
+    font-weight: bold
+}
+
+.seriesCard{
+    margin-bottom: 24px;
+}
